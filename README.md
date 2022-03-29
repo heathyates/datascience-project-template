@@ -37,5 +37,5 @@ The following basic python modules are used:
 ## References 
 
 - [How to Structure a Python-Based Data Science Project](https://medium.com/swlh/how-to-structure-a-python-based-data-science-project-a-short-tutorial-for-beginners-7e00bff14f56)
-- [Cookie Cutter Data Science] https://drivendata.github.io/cookiecutter-data-science/#data-is-immutable
+- [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/#data-is-immutable)
 - [Reproducible Research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3383002/)
